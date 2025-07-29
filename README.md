@@ -2,31 +2,16 @@
 #  Hi there! I'm Battu Bharath Kumar 👋
 
  
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves to create, learn, and share knowledge. I enjoy building at the intersection of technology, artificial intelligence, and business—from developing AI-powered chatbots to designing motion-sensing digital displays. I thrive on turning real-world problems into scalable tech products.
+Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves to create, learn, and share knowledge. I enjoy building at the intersection of technology, artificial intelligence, and business from developing AI-powered chatbots to designing motion-sensing digital displays. I thrive on turning real-world problems into scalable tech products.
 
 ---
 
-### 🔭 Currently Working On
-- AI, ML & Small Business AI Solutions
-
-### 🌱 Exploring
-- LLMs, Prompt Engineering, AI Agents, Cloud DevOps, AI Automation
-
-### 💼 Interested In
-- Tech-driven Startups  
-- Product Building  
-- AI Consulting
-
-### 💬 Ask Me About
-- Python, AI APIs, Java  
-- DevOps, Automation  
-- Business Strategy
-
-### 📫 Reach Me At
-📧 bk9761790@gmail.com
-
-### ⚡ Fun Fact
-> I see every tech problem as a startup waiting to happen :)
+- 🔭 I’m currently working on: AI, ML & Small Business AI Solutions  
+- 🌱 I’m currently learning: LLMs, Prompt Engineering, AI Agents, Cloud DevOps, AI Automation  
+- 👯 I’m looking to collaborate on: Tech-driven Startups, Product Building, AI Consulting  
+- 💬 Ask me about: Python, AI APIs, Java, DevOps, Automation, Business Strategy  
+- 📫 How to reach me: mail me → bk9761790@gmail.com  
+- ⚡ Fun fact: I see every tech problem as a startup waiting to happen :)
 
 ---
 
