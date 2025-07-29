@@ -2,7 +2,6 @@
 #  Hi there! I'm Battu Bharath Kumar 👋
 
  
-
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves to create, learn, and share knowledge. I enjoy building at the intersection of technology, artificial intelligence, and business—from developing AI-powered chatbots to designing motion-sensing digital displays. I thrive on turning real-world problems into scalable tech products.
 
 ---
