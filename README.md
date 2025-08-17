@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 ### ⚖️ Legal Verification Assistant (AI for Law)  
 → An AI tool that assists in identifying inconsistencies and verifying legal clauses in contracts.
 
-### 💼 AI Agency for SMEs  
+### 💼 Shiftsquad AI Agency for SMEs  
 → A generative AI-powered toolkit that helps small businesses automate content, lead generation, and customer interaction.
 
 ---
