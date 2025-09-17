@@ -45,6 +45,9 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 ### 💼 Shiftsquad AI Agency for SMEs  
 → A generative AI-powered toolkit that helps small businesses automate content, lead generation, and customer interaction.
 
+### 📚 Elite Research Assistant (AI Research Tool)  
+→ A sophisticated AI-powered research assistant built with **LangChain, Mistral AI, and Streamlit**. It generates **academic-quality research reports** by combining web search, Wikipedia knowledge, and AI analysis with export options (TXT/PDF/HTML).
+
 ---
 
 ## 📊 GitHub Status
