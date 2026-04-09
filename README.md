@@ -1,62 +1,98 @@
+# 👋 Hi, I'm Battu Bharath Kumar
 
-#  Hi there! I'm Battu Bharath Kumar 
+🚀 AI Builder | Startup Enthusiast | Turning Ideas into Scalable Products  
 
- 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves to create, learn, and share knowledge. I enjoy building at the intersection of technology, artificial intelligence, and business from developing AI-powered chatbots to designing motion-sensing digital displays. I thrive on turning real-world problems into scalable tech products.
+I build at the intersection of **AI, business, and real-world problem solving**.  
+From AI-powered assistants to motion-sensing ad systems, I focus on creating **products that don’t just work — but create value.**
 
----
-
--  I’m currently working on: AI, ML & Small Business AI Solutions  
--  I’m currently learning: LLMs, Prompt Engineering, AI Agents, Cloud DevOps, AI Automation  
--  I’m looking to collaborate on: Tech-driven Startups, Product Building, AI Consulting  
--  Ask me about: Python, AI APIs, Java, DevOps, Automation, Business Strategy  
--  How to reach me: mail me → bk9761790@gmail.com  
--  Fun fact: I see every tech problem as a startup waiting to happen :)
+> 💡 I don’t just write code. I build systems that can become businesses.
 
 ---
 
-##  Tools & Technologies
+## 🧠 What I’m Focused On
 
-**Languages:**  
+- 🔭 Building: **AI-powered tools for small businesses & automation systems**
+- 🌱 Learning: **LLMs, AI Agents, Prompt Engineering, Cloud & DevOps**
+- 🤝 Collaborating: **AI startups, product teams, and early-stage ideas**
+- 💬 Ask me about: **AI APIs, Python, Automation, Backend Systems, Startup Strategy**
+
+📩 Reach me: **bk9761790@gmail.com**
+
+---
+
+## ⚙️ Tech Stack
+
+### 👨‍💻 Languages
 `Python` `Java` `JavaScript` `Bash`
 
-**AI/ML Stack:**  
+### 🤖 AI / ML
 `OpenAI` `LangChain` `TensorFlow` `scikit-learn`
 
-**Web & Backend:**  
-`Flask` `FastAPI` `Node.js`
+### 🌐 Backend & Web
+`FastAPI` `Flask` `Node.js`
 
-**DevOps & Infra:**  
-`Git` `Docker` `Firebase` `Linux`
+### ⚡ DevOps & Infra
+`Docker` `Git` `Linux` `Firebase`
 
-**Cloud Platforms:**  
+### ☁️ Cloud
 `AWS` `GCP`
 
-**Design/Product:**  
+### 🎨 Product & Design
 `Figma` `Notion` `Canva`
 
 ---
 
-##  Fun Projects I've Worked On
+## 🚀 Featured Projects
 
-###  Legal Verification Assistant (AI for Law)  
-→ An AI tool that assists in identifying inconsistencies and verifying legal clauses in contracts.
-
-###  Shiftsquad AI Agency for SMEs  
-→ A generative AI-powered toolkit that helps small businesses automate content, lead generation, and customer interaction.
-
-###  Elite Research Assistant (AI Research Tool)  
-→ A sophisticated AI-powered research assistant built with **LangChain, Mistral AI, and Streamlit**. It generates **academic-quality research reports** by combining web search, Wikipedia knowledge, and AI analysis with export options (TXT/PDF/HTML).
+### 🧾 Legal Verification Assistant  
+**AI for Contract Intelligence**  
+→ Detects inconsistencies and risky clauses in legal documents  
+→ Helps reduce manual review time and human error  
 
 ---
 
-##  GitHub Status
+### 🤖 Shiftsquad AI  
+**AI Toolkit for Small Businesses**  
+→ Automates content, lead generation, and customer interactions  
+→ Built to help SMEs scale without hiring large teams  
+
+---
+
+### 📊 Elite Research Assistant  
+**AI-Powered Research Engine**  
+→ Generates **academic-quality reports** using:
+- Web data + Wikipedia + LLM reasoning  
+→ Export support: **PDF / HTML / TXT**  
+→ Built with: `LangChain + Mistral AI + Streamlit`
+
+---
+
+## 📈 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathbattu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathbattu&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathbattu&layout=compact&theme=radical)
 
 ---
 
-##  Let's Connect
+## 🌍 Vision
 
-> “I believe in building products that not only run on code, but also run businesses.” 
+I’m focused on building:
+- AI tools that solve **real business problems**
+- Systems that can evolve into **scalable startups**
+- Products that combine **technology + revenue thinking**
+
+---
+
+## 🤝 Let’s Build Something Big
+
+If you're working on:
+- AI products  
+- Startup ideas  
+- Automation systems  
+
+Let’s connect and build 🚀
+
+---
+
+> ⚡ *“Every problem is a startup waiting to be built.”*
